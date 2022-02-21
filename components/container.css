@@ -1,0 +1,11 @@
+.container {
+    width: 700px;
+    margin: 40px auto;
+  }
+body{
+  background-color: #1d1818;
+}
+
+.container h2{
+  color: white;
+}
